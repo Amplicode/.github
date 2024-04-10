@@ -30,7 +30,8 @@
 
 ## Социальные сети
 
-* Телеграм – https://t.me/amplicode
+* Web-site – https://amplicode.ru
+* Telegram – https://t.me/amplicode
 * YouTube – https://www.youtube.com/@amplicode
-* Вконтакте – https://vk.com/amplicode
+* VK – https://vk.com/amplicode
 * Почта – info@amplicode.io
