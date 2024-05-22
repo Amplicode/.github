@@ -7,9 +7,9 @@
 
 ## Changelog
 
-* [Что нового в Amplicode 2024.1](releases/2024.1.md)
-* [Что нового в Amplicode 2023.2](releases/2023.2.md)
-* [Что нового в Amplicode 2023.1](releases/2023.1.md)
+* [Что нового в Amplicode 2024.1](https://github.com/Amplicode/amplicode/blob/main/releases/2024.1.md)
+* [Что нового в Amplicode 2023.2](https://github.com/Amplicode/amplicode/blob/main/releases/2023.2.md)
+* [Что нового в Amplicode 2023.1](https://github.com/Amplicode/amplicode/blob/main/releases/2023.1.md)
 
 ## Социальные сети
 
