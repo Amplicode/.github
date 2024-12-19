@@ -7,6 +7,8 @@
 
 ## Changelog
 
+* [Что нового в Amplicode 2024.1](https://github.com/Amplicode/amplicode/blob/main/releases/2024.3.md)
+* [Что нового в Amplicode 2024.1](https://github.com/Amplicode/amplicode/blob/main/releases/2024.2.md)
 * [Что нового в Amplicode 2024.1](https://github.com/Amplicode/amplicode/blob/main/releases/2024.1.md)
 * [Что нового в Amplicode 2023.2](https://github.com/Amplicode/amplicode/blob/main/releases/2023.2.md)
 * [Что нового в Amplicode 2023.1](https://github.com/Amplicode/amplicode/blob/main/releases/2023.1.md)
@@ -18,4 +20,5 @@
 * Telegram-чат – https://t.me/amplicode_chat
 * YouTube – https://www.youtube.com/@amplicode
 * VK – https://vk.com/amplicode
+* RUTUBE – https://rutube.ru/channel/36206107/
 * Почта – info@amplicode.io
