@@ -7,6 +7,7 @@
 
 ## Changelog
 
+* [Что нового в Amplicode 2025.2](https://github.com/Amplicode/amplicode/blob/main/releases/2025.2.md)
 * [Что нового в Amplicode 2025.1](https://github.com/Amplicode/amplicode/blob/main/releases/2025.1.md)
 * [Что нового в Amplicode 2024.3](https://github.com/Amplicode/amplicode/blob/main/releases/2024.3.md)
 * [Что нового в Amplicode 2024.2](https://github.com/Amplicode/amplicode/blob/main/releases/2024.2.md)
